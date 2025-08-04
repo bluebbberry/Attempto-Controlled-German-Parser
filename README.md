@@ -1,1 +1,1 @@
-Parser for the controlled natural language "Attempto Controlled English".
+Parser for the controlled natural language "Attempto Controlled German".
