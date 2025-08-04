@@ -1,0 +1,1 @@
+Parser for the controlled natural language "Attempto Controlled English". To be used for controlling and finally overcoming the digital. Language is to be further developed through fanfiction (e.g. see https://fungiverse.wordpress.com/2025/07/18/the-avada-kedavra-cycle-a-bridge-from-harry-potter-to-science-fiction/).
